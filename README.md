@@ -4,7 +4,7 @@ This is my GitHub. I’ve worked in social media marketing for years—campaigns
 
 Current Focus:
 
-Studying python. js, css, html etc...
+Studying python. js, css, html etc...node...
 
 Working on a couple projects to get the hang of it.
 
