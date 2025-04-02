@@ -1,4 +1,4 @@
-KaladinX (a handle, that's all)
+Kieran VR. KaladinX is an old handle, that's all.
 
 This is my GitHub. I’ve worked in social media marketing for years—campaigns, content, that sort of thing.
 
