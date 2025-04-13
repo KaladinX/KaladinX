@@ -2,9 +2,8 @@ Kieran VR. KaladinX is an old handle, that's all.
 
 This is my GitHub. I’ve worked in social media marketing for years—campaigns, content, that sort of thing.
 
-Current Focus:
-
 Studying python. js, css, html etc...node...
+Trying to learn rust...should be learning haskell
 
 Working on a couple projects to get the hang of it.
 
