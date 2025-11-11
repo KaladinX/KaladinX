@@ -1,18 +1,6 @@
-Kieran VR. KaladinX is an old handle, that's all.
+Kieran VR. KaladinX is an old handle.
 
-This is my GitHub. I’ve worked in social media marketing for years—campaigns, content, that sort of thing.
-
-Studying python. js, css, html etc...node...
-
-Working on a couple projects to get the hang of it.
-
-Projects are mostly my own interests for the moment, nothing grandious.
-
-nothing wrong with grandious.
-
-If you find something interesting here, your probably a friend. I you don't...well
-
-...you might be a friend anyways.
+Documentation and Automation
 
 <!--
 **KaladinX/KaladinX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
