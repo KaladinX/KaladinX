@@ -2,7 +2,7 @@ Kieran VR. KaladinX is an old handle.
 
 Documentation and Automation
 
-_"Christus Victor"_
+_"Christus Regnat"_
 
 <!--
 **KaladinX/KaladinX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
